@@ -1,0 +1,67 @@
+[
+    
+    
+ 
+ {
+   "rating": 5.0,
+     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+     "age": "18-65 років",
+     "percent": "від 0% в день",
+	"sum_one": "12 000 грн",
+	"term_to": "до 160 днів",
+     "url": "https://google.com"
+         }
+    
+    
+,
+
+
+ {
+   "rating": 4.5,
+     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+     "age": "18-65 років",
+     "percent": "від 0% в день",
+	"sum_one": "12 000 грн",
+	"term_to": "до 160 днів",
+     "url": "https://www.homecredit.ru"
+  
+    }
+    
+ ,
+ {
+      "rating": 4.5,
+  "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+   "age": "18-65 років",
+     "percent": "від 0% в день",
+	"sum_one": "12 000 грн",
+	"term_to": "до 160 днів",
+     "url": "https://google.com"
+        
+  
+    }
+    
+    
+,
+
+
+ {
+   "rating": 4.7,
+     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+     "age": "18-65 років",
+     "percent": "від 0% в день",
+	"sum_one": "12 000 грн",
+	"term_to": "до 160 днів",
+     "url": "https://www.homecredit.ru"
+  
+    }
+    
+
+
+
+
+ 
+   
+   
+  
+  
+]
