@@ -3,7 +3,7 @@
     
  
  {
-   "rating": 5.0,
+   "rating": 5,
      "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
      "age": "18-65 років",
      "percent": "від 0% в день",
@@ -17,7 +17,7 @@
 
 
  {
-   "rating": 4.5,
+   "rating": 4,
      "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
      "age": "18-65 років",
      "percent": "від 0% в день",
@@ -29,7 +29,7 @@
     
  ,
  {
-      "rating": 4.5,
+      "rating": 4,
   "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
    "age": "18-65 років",
      "percent": "від 0% в день",
@@ -45,7 +45,7 @@
 
 
  {
-   "rating": 4.7,
+   "rating": 4,
      "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
      "age": "18-65 років",
      "percent": "від 0% в день",
